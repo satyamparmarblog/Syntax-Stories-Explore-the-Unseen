@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Welcome to Syntax & Stories",
+    "excerpt": "A short intro to the blog — curiosity, science and code.",
+    "author": "Satyam Parmar",
+    "date": "August 10, 2025",
+    "tags": ["science","tech"],
+    "category": "science",
+    "image": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?w=1200&q=80&auto=format&fit=crop",
+    "featured": true,
+    "content": "<p>Welcome to the first post on Syntax & Stories. This blog explores science, technology and curious stories from around the world.</p><p>Replace this content with your own posts by editing <code>posts.json</code>. Each post supports HTML in the <code>content</code> field.</p>"
+  },
+  {
+    "id": 2,
+    "title": "A Tiny Tour of Design Trends",
+    "excerpt": "Short tour of practical design trends for modern interfaces.",
+    "author": "Satyam Parmar",
+    "date": "July 28, 2025",
+    "tags": ["tech"],
+    "category": "tech",
+    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=1200&q=80&auto=format&fit=crop",
+    "featured": false,
+    "content": "<p>Design trends often come and go, but patterns like variable typography, micro-motion and accessible color choices are staying useful.</p>"
+  }
+]
